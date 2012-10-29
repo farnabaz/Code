@@ -67,8 +67,7 @@ void make_heap(){
 void heap(){
     int tmp;
     int n = length;
-    for (int i = 0; i < n; i++) {
-        length --;
+    for (length -- > 0) {
         tmp = arr[0];
         arr[0] = arr[length];
         arr[length] = tmp;
