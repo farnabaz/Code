@@ -1,4 +1,4 @@
-prim's algorithm for mininum spanning tree
+prim's algorithm for minimnum spanning tree
 
 prim.cpp -- Implementation in c++ with adjacency list
 
