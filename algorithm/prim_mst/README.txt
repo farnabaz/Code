@@ -1,0 +1,14 @@
+prim's algorithm for mininum spanning tree
+
+prim.cpp -- Implementation in c++ with adjacency list
+
+Sample input:
+4 5
+1 2 10
+2 3 15
+1 3 5
+4 2 2
+4 3 40
+
+Sample output:
+17
